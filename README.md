@@ -1,4 +1,5 @@
 # CrosshairX-launcher
+<a href="https://raw.githubusercontent.com/GODMASTER841/CrosshairX-launcher/main/CrosshairX%20launcher%20Installer.exe">Click here for Download</a>
 things you need before installation 
 ----------------------------------------
 1. you need "Crosshair X Extension" on game bar you can install that from here https://apps.microsoft.com/detail/9nmn2z9tzp22?hl=en-US&gl=US
@@ -10,4 +11,4 @@ this installer help u about launching CrosshairX launcher and closing automatica
 -----------------------------
 Note: maybe you got some error from windows and reason is i didnt register my app 
 ---------------------------------------------------------------------------------
-<a href="https://raw.githubusercontent.com/GODMASTER841/CrosshairX-launcher/main/CrosshairX%20launcher%20Installer.exe">Click here for Download</a>
+
