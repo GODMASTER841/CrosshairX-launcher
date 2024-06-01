@@ -13,5 +13,3 @@ this installer help u about launching CrosshairX launcher and closing automatica
 -----------------------------
 Note: maybe you got some error from windows and reason is i didnt register my app 
 ---------------------------------------------------------------------------------
-
-<a href="https://apps.microsoft.com/detail/9nmn2z9tzp22?hl=en-US&gl=US/" target="_blank">Crosshair X Extension</a>
