@@ -8,6 +8,7 @@ things you need before installation
 1. you need "<a href="https://apps.microsoft.com/detail/9nmn2z9tzp22?hl=en-US&gl=US">Crosshair X Extension</a>" on game bar you can install that from here 
 
 2.you need u got the "CrosshairX launcher" form the steam
+
 --------------------------------------
 NOTES: maybe your key board not work properly some times in windows user login and reason of this is microsoft game bar do not optimized run before user login
 (but your mouse work 100% of time)
