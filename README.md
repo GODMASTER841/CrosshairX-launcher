@@ -11,8 +11,8 @@ things you need before installation
 2.you need buy the <a href="https://store.steampowered.com/app/1366800/Crosshair_X/">CrosshairX</a> form the Steam
 
 --------------------------------------
-NOTES: maybe your key board not work properly some times in windows user login and reason of this is microsoft game bar do not optimized run before user login
+NOTES1: maybe your key board not work properly some times in windows user login and reason of this is microsoft game bar do not optimized run before user login
 (but your mouse work 100% of time)
 -----------------------------
-Note: maybe you got some error from windows and reason is i didnt register my app 
+NOTES2: maybe you got some error from windows and reason is i didnt register my app 
 ---------------------------------------------------------------------------------
