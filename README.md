@@ -13,7 +13,6 @@ things you need before installation
 --------------------------------------
 NOTES: maybe your key board not work properly some times in windows user login and reason of this is microsoft game bar do not optimized run before user login
 (but your mouse work 100% of time)
-this installer help u about launching CrosshairX launcher and closing automatically
 -----------------------------
 Note: maybe you got some error from windows and reason is i didnt register my app 
 ---------------------------------------------------------------------------------
