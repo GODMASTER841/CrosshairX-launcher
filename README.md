@@ -1,4 +1,4 @@
-Last Update:Wednesday,11 September 2024 
+Last Update:Thursday, October 10, 2024 
 
 # CrosshairX-Launcher
 
