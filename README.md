@@ -1,5 +1,5 @@
 # this app will not getting any more updates 
- not like anyone give a fk but it was a fun projact to have 
+ not like anyone give a fk but it was a fun project to have 
 
 Last Update: Thursday February 26, 2026
 
